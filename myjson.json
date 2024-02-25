@@ -1,0 +1,80 @@
+{
+    "resume":
+    [
+        {
+            "title": "Saneringstekniker",
+            "time": "Nov 2021 - Aug 2023",
+            "place": "ocab, Sundsvall",
+            "description": "Arbetar i ett team för att nå resultat erfaren inom sanering."
+        },
+        {
+            "title": "Trädgårdsarbetare",
+            "time": "Maj 2020 - Okt 202",
+            "place": "hässjö pastorat, Timrå",
+            "description": "arbetarade bra bade självständigt och i team Varierande miljö och en del ansvaar i vissa projekt. Gräsklippning plantering samt städ av lokaler."
+        },
+        {
+            "title": "Servitris",
+            "time": "Sep 2018 - Feb 2020",
+            "place": "NHK arena, Timrå",
+            "description": "Högt tempo och lagarbete. viss ansvar över mindre områden. ta beställlningar, stå i kassa, förberedelser av lunchbuffe."
+        }
+    ],
+    "education":
+    [
+        {
+            "time": "Aug 2016 - Jun 2019",
+            "title": "Samhällsvetenskap",
+            "school": "Klara gymnasium, Sundsvall"
+        },
+        {
+            "time": "Aug 2023 - nuvarande",
+            "title": "systemutveklare med AI kompetent",
+            "school": "Edugrade, Sundsvall"
+        }
+    ],
+    "about":
+    [
+        {
+            "description": "Motiverad och entusiastisk person med lite erfarenhet inom olika branscher. Ser fram emot att ta mig an nya utmaningar."
+        }
+    ],
+    "contact":
+    [
+        {
+            "title": "kontakt",
+            "phone": "070 123 45 67",
+            "email": "agnesperala@icloud.com",
+            "home": "banergatan 861 34, Timrå"
+        }
+    ],
+    "knowledge":
+    [
+        {
+            "title": "socialkompitens"
+        },
+        {
+            "title": "målinrikad"
+        },
+        {
+            "title": "svenska - modersmål"
+        },
+        {
+            "title": "programmering"
+        }
+    ],
+
+    "certificate":
+    [
+        {
+            "title": "asbest Utbildning"
+        }
+    ],
+
+    "reference":
+    [
+        {
+            "description": "lämnas gärna på begäran"
+        }
+    ]
+}

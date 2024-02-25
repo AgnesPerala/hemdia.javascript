@@ -1,0 +1,18 @@
+let a = "";
+let b = "";
+let c = "";
+function handleKeyPress(event) {
+    a = b;
+    b = c;
+    c =  String.fromCharCode(event.keyCode).toUpperCase();
+    if (a + b + c === "HEJ") {
+        document.getElementById("myModal").style.display = "block";
+    }
+}
+window.onclick = function(event) {
+    if (event.target == document.getElementById("myModal")) {
+        document.getElementById("myModal").style.display = "none";
+    }
+}
+
+document.addEventListener("keydown", handleKeyPress);
